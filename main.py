@@ -3,7 +3,6 @@ import random
 import time
 
 # Lists of prompts
-personal = ["Daisuke","Odysseus"]
 character = ["Lumbah Jack","Ice Witch","Fire Queen"
 ]
 environment = ["Treehouse","Underground bunker"]
@@ -15,8 +14,6 @@ print("Hello - you're next art piece is going to be of:")
 time.sleep(1)
 print("...")
 time.sleep(1)
-# print(random.choice(personal))
-# time.sleep(1)
 print("Character - ", random.choice(character))
 time.sleep(1)
 print("Environment - ", random.choice(environment))
