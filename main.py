@@ -1,12 +1,17 @@
 # Importing modules needed
 import random
 import time
+import streamlit as st
 
 # Lists of prompts
 character = ["Lumbah Jack","Ice Witch","Fire Queen"]
 environment = ["Treehouse","Underground bunker"]
 prop = ["Laser gun","Diamond staff"]
 number = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","Unlimited"]
+
+st.title('Artsly')
+st.button('Generate Prompts')
+
 
 # Showing the prompts that are randomly selected
 print("Hello")
