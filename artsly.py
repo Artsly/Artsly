@@ -14,7 +14,7 @@ st.title('Artsly')
 st.button('Generate Prompts')
 {st.write('Hello'),
 time.sleep(1),
-st.write("PLEASE NOTE THESE ARE PROMPTS -YOU  DON'T HAVE TO DO THEM OR DO ALL OF THEM."),
+st.write("PLEASE NOTE YOU DON'T HAVE TO DO THEM ALL."),
 time.sleep(3),
 st.write("Your next art piece is going to be of:"),
 time.sleep(1),
