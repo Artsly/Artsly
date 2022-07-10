@@ -23,7 +23,7 @@ sudo pacman -S python pip
 ```
 ##### All
 ```bash
-pip install steamlit
+pip install streamlit
 ```
 #### Installing
 then
@@ -32,5 +32,5 @@ git clone https://github.com/Artsly/Artsly
 ```
 then to run
 ```bash
-cd Artsly &&steamlit run artsly.py
+cd Artsly &&streamlit run artsly.py
 ```
