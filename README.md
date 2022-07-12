@@ -6,7 +6,7 @@
 #### Dependencies
 ##### Windows
 ```bash
-winget install python pip
+winget install python
 ```
 ##### Linux
 Debian Based Distros
