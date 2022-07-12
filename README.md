@@ -11,15 +11,15 @@ winget install python pip
 ##### Linux
 Debian Based Distros
 ```
-sudo apt install python pip
+sudo apt install python
 ```
 RHEL Based Distros
 ```bash
-sudo dnf install python pip
+sudo dnf install python
 ```
 Arch Based Distros
 ```bash
-sudo pacman -S python pip
+sudo pacman -S python
 ```
 ##### All
 ```bash
