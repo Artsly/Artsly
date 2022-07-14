@@ -1,4 +1,4 @@
-#!/env/bin/bash
+#!/bin/bash
 
 mkdir -p ~/.streamlit/
 echo "\
