@@ -4,17 +4,16 @@ import time
 import streamlit as st
 
 # Lists of prompts
-character = ["Lumbah Jack","Ice Witch","Fire Queen"]
+character = ["Lumbah Jack","Ice Witch","Fire Queen","Royal Dragon Groomer","Whale hunter","The world's worst super hero team"]
 environment = ["Treehouse","Underground bunker"]
 prop = ["Laser gun","Diamond staff"]
 number = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","Unlimited"]
+sentences = ["Elephant working in a cubicle",]
 
 st.title('Artsly')
 
 st.button('Generate Prompts')
-{st.write('Hello'),
-time.sleep(1),
-st.write("PLEASE NOTE YOU DON'T HAVE TO DO THEM ALL."),
+{st.write("Select one or more and get creative."),
 time.sleep(3),
 st.write("Your next art piece is going to be of:"),
 time.sleep(1),
@@ -27,6 +26,8 @@ time.sleep(1),
 st.write("Prop - ", random.choice(prop)),
 time.sleep(1),
 st.write("Number of colours - ", random.choice(number)),
+time.sleep(1),
+st.write("Sentence Prompt - ", random.choice(sentences)),
 time.sleep(1),
 st.write("Good Luck!"),
 time.sleep(0.1),
