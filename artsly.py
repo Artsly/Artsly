@@ -8,6 +8,7 @@ character = ["Lumbah Jack","Ice Witch","Fire Queen","Royal Dragon Groomer","Whal
 environment = ["Treehouse","Underground bunker"]
 prop = ["Laser gun","Diamond staff"]
 number = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","Unlimited"]
+sentences = ["Elephant working in a cubicle",]
 
 st.title('Artsly')
 
@@ -25,6 +26,8 @@ time.sleep(1),
 st.write("Prop - ", random.choice(prop)),
 time.sleep(1),
 st.write("Number of colours - ", random.choice(number)),
+time.sleep(1),
+st.write("Sentence Prompt - ", random.choice(sentences)),
 time.sleep(1),
 st.write("Good Luck!"),
 time.sleep(0.1),
