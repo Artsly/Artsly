@@ -1,1 +1,1 @@
-web: streamlit run artsly.py
+web: sh streamlit run artsly.py

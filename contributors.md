@@ -3,4 +3,3 @@
 The Linux Gamer - Founder, Lead dev
 
 ## Commiters
-
