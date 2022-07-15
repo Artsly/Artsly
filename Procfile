@@ -1,1 +1,1 @@
-web: sh streamlit run artsly.py
+web: sh setup.sh &&streamlit run artsly.py
