@@ -1,7 +1,9 @@
 # Artsly
 ## A random prompt generator for artists.
 
-### Installation
+### Use
+Visit the app [here](https://artsly.herokuapp.com)
+### Self Hosting
 
 #### Dependencies
 ##### Windows
