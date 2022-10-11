@@ -4,8 +4,9 @@
 ![image](https://user-images.githubusercontent.com/83363242/189715299-f9846285-a0a7-4b85-acd2-bb850742e95c.png)
 
 
-### Use
-Visit the app [here](https://artsly.herokuapp.com)
+~~### Use~~
+~~Visit the app [here]~~ **Unfortunately Heroku no longer allows free hosting, so the hosted version is offline until I can find a replacement!**
+
 ### Self Hosting
 
 #### Dependencies
@@ -16,15 +17,15 @@ winget install python
 ##### Linux
 Debian Based Distros
 ```
-sudo apt install python
+sudo apt install python3
 ```
 RHEL Based Distros
 ```bash
-sudo dnf install python
+sudo dnf install python3
 ```
 Arch Based Distros
 ```bash
-sudo pacman -S python
+sudo pacman -S python3
 ```
 ##### All
 ```bash
