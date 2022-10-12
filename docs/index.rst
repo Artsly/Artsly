@@ -9,4 +9,8 @@ Table of Contents
 
 About
 ----
-Artsly is a random prompt generator for artists and graphic designers.
+Artsly is a random prompt generator for artists and graphic designers. Made in Python.
+
+Self Hosted
+----
+At the moment, there is not a hosted
