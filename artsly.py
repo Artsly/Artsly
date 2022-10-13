@@ -11,24 +11,4 @@ st.title('Artsly')
 
 st.write(random.choice(prompts))
 st.button('Generate New Prompt')
-#{
-#st.write("Select one or more and get creative."),
-#time.sleep(3),
-#st.write("Your next art piece is going to be of:"),
-#time.sleep(1),
-#st.write("......................................"),
-#time.sleep(1),
-#st.write("Character - ", random.choice(character)),
-#time.sleep(1),
-#st.write("Environment - ", random.choice(environment)),
-#time.sleep(1),
-#st.write("Prop - ", random.choice(prop)),
-#time.sleep(1),
-#st.write("Number of colours - ", random.choice(number)),
-#time.sleep(1),
 
-#time.sleep(1),
-#st.write("Good Luck!"),
-#time.sleep(0.1),
-#st.write("And have fun!")
-#}
