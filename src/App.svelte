@@ -1,22 +1,25 @@
-<script>
-  import svelteLogo from './assets/svelte.svg'
-  import Counter from './lib/Counter.svelte'
-</script>
+//<script>
+  //import svelteLogo from './assets/svelte.svg'
+  //import Counter from './lib/Counter.svelte'
+//</script>
 
 <main>
-  <div>
-    <a href="https://vitejs.dev" target="_blank"> 
-      <img src="/vite.svg" class="logo" alt="Vite Logo" />
-    </a>
-    <a href="https://svelte.dev" target="_blank"> 
-      <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
-    </a>
-  </div>
-  <h1>Vite + Svelte</h1>
+//  <div>
+  //  <a href="https://vitejs.dev" target="_blank"> 
+    //  <img src="/vite.svg" class="logo" alt="Vite Logo" />
+//    </a>
+  //  <a href="https://svelte.dev" target="_blank"> 
+    //  <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
+//    </a>
+//  </div>
+  <h1>Artsly</h1>
 
-  <div class="card">
-    <Counter />
-  </div>
+//  <div class="card">
+//    <Counter />
+//  </div>
+
+    <div class="button">
+    </div>
 
   <p>
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank">SvelteKit</a>, the official Svelte app framework powered by Vite!

@@ -4,13 +4,13 @@
 ![image](https://user-images.githubusercontent.com/83363242/189715299-f9846285-a0a7-4b85-acd2-bb850742e95c.png)
 
 
-### Use
-Visit the app [here](https://artsly.up.railway.app/) or copy paste the following link into your browser
-```url
-https://artsly.up.railway.app/
-```
+//### Use
+//Visit the app [here](https://artsly.up.railway.app/) or copy paste the following link into your browser
+//```url
+//https://artsly.up.railway.app/
+//```
 
-### Self Hosting
+//### Self Hosting
 
 #### Dependencies
 ##### Windows
